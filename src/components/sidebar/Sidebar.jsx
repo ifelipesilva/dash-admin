@@ -93,7 +93,7 @@ const Sidebar = () => {
 
             <li className="sidebarListItem">
               <Timeline className="sidebarIcon" />
-              Analytics
+              Analyticsw
             </li>
 
             <li className="sidebarListItem">
